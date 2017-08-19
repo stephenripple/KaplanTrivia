@@ -1,0 +1,6 @@
+What is the title of the game featuring two plumbers who are brothers?
+Finish the title: Where in the World is...
+What game does this geometric shape belong to:<br /><img src='graphics/triforce.png' />
+What is the name of Metroids main character?
+What is the name of this code and the associated game title?<br /><img src='graphics/code.png' />
+What popular game was created by Alexey Pajitnov?
